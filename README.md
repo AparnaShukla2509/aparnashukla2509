@@ -1,3 +1,5 @@
+![image](https://github.com/AparnaShukla2509/aparnashukla2509/assets/132578968/57220541-2f9d-4141-b2ca-de3887b8fc45)
+
 <h1 align="center">Hi 👋, I'm APARNA SHUKLA</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
