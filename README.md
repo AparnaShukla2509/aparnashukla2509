@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm APARNA SHUKLA</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<img align="right" alt="coding" width="498" src="https://tenor.com/view/coding-girl-gif-2332171326726785246"> 
+<img align="right" alt="coding" width="498" src="\https://tenor.com/view/coding-girl-gif-2332171326726785246"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnashukla2509&label=Profile%20views&color=0e75b6&style=flat" alt="aparnashukla2509" /> </p>
 
 - 🔭 I’m currently working on **Weather Forecasting System**
 
-- 🌱 I’m currently learning **3rd Year B-TECH COMPUTER SCIENCE ENGINEERING Student**
+- 🌱 I’m currently learning **4th Year B-TECH COMPUTER SCIENCE ENGINEERING Student**
 
 - 📫 How to reach me **aparnashukla2509@gmail.com**
 
