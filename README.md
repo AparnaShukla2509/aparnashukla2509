@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm APARNA SHUKLA</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
-<img align="right" alt="coding" width="498" src="\https://tenor.com/view/coding-girl-gif-2332171326726785246"> 
+<img align="right" alt="coding" width="498" src="file:///C:/Users/dell/Downloads/coding-girl.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnashukla2509&label=Profile%20views&color=0e75b6&style=flat" alt="aparnashukla2509" /> </p>
 
