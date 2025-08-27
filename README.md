@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnashukla2509&label=Profile%20views&color=0e75b6&style=flat" alt="aparnashukla2509" /> </p>
 
-- 🔭 I’m currently working on **Weather Forecasting System**
-
-- 🌱 I’m currently learning **4th Year B-TECH COMPUTER SCIENCE ENGINEERING Student**
-
 - 📫 How to reach me **aparnashukla2509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
